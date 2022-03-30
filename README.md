@@ -27,7 +27,7 @@ You're going to need:
 4. Initialize and start chain-docs.
 
 ```bash
-npm
+npm install # install dependencies
 npm run docs:dev
 ```
 
